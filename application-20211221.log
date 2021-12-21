@@ -4,3 +4,10 @@
 2021-12-21 10:00:31.474 [main] WARN  log42jexample.Log42JExample - User has been warned
 2021-12-21 10:00:31.474 [main] ERROR log42jexample.Log42JExample - User has been caught in error
 2021-12-21 10:00:31.474 [main] FATAL log42jexample.Log42JExample - User has occured fatal error
+2021-12-21 10:13:51.848 [main] DEBUG log42jexample.Log42JExample - Debugged mode
+2021-12-21 10:13:51.848 [main] DEBUG log42jexample.Log42JExample - We have debugged the user
+2021-12-21 10:13:51.848 [main] INFO  log42jexample.Log42JExample - User information logged
+2021-12-21 10:13:51.848 [main] WARN  log42jexample.Log42JExample - User has been warned
+2021-12-21 10:13:51.848 [main] ERROR log42jexample.Log42JExample - User has been caught in error
+2021-12-21 10:13:51.848 [main] FATAL log42jexample.Log42JExample - User has occured fatal error
+2021-12-21 10:13:51.864 [main] INFO  log42jexample.Log42JExample - Committed to the github

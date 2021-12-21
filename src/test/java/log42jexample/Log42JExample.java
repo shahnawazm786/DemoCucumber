@@ -15,5 +15,6 @@ public class Log42JExample {
     logger.warn("User has been warned");
     logger.error("User has been caught in error");
     logger.fatal("User has occured fatal error");
+    logger.info("Committed to the github");
     }
 }
