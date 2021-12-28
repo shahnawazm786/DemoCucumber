@@ -40,4 +40,21 @@ public class MyStepdefs {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
     }
+
+    @Given("I'm dummy{int}")
+    public void iMDummy(int arg0) {
+        System.out.println("Step -01");
+        
+    }
+
+    @When("I do dummy things{int}")
+    public void iDoDummyThings(int arg0) {
+        System.out.println("Step -02");
+    }
+
+    @Then("dummy thing happens{int}")
+    public void dummyThingHappens(int arg0) {
+        //System.out.println("Step -03");
+        throw new io.cucumber.java.PendingException();
+    }
 }
