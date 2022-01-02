@@ -52,6 +52,7 @@ public class ReadingJSONFile {
         String lastName=(String)employeeObject.get("lastName");
         logger.info("Printing last name"+lastName);
         System.out.println(lastName);
+
         logger.info("Reading website");
         String website=(String) employeeObject.get("website");
         logger.info("Printing website"+website);
