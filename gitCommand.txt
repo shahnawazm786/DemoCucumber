@@ -1,0 +1,67 @@
+Git steps
+
+--------------
+
+Step -1
+
+Install the git accord
+
+1- git --version
+
+To set user name in Globally
+
+2. git config --global user.name "Mohammad Shahnawaz"
+
+To set email Globally
+
+git config --gloabl user.email "msnazia2012@gmail.com"
+
+4. To make folder as git repository
+
+git init
+
+5 To the file status which has been modified or newly added
+
+git status
+
+6. To track the file, user need to add file into git repository
+
+git add "file name"
+
+After adding the file into git, file has been included into the staging area.
+
+7. To commit the file
+
+git commit -m "message name"
+
+8. To check how many commits have been happened
+
+git log
+
+9. To make undo of changes into the tracking
+
+git checkout tracking_name
+
+10. Go to back to master branch
+
+git checkout master
+
+11. Creating new branch and switching branch
+
+git branch <branch name>
+
+git checkout <branch name>
+
+12 Merge the branch
+
+git merge <branch name>
+
+13 Push the code to Git hub
+
+git push
+
+14 Push the code at the particular branch in github
+
+git push <branch_name>
+
+#github #kaz #kazonline #kazacademy #git #gitcommand
