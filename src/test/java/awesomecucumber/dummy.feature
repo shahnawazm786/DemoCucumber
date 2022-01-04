@@ -3,3 +3,9 @@ Feature: Dummy Feature
     Given I'm dummy
     When I do dummy things
     Then dummy thing happens
+
+
+  Scenario: Dummy scenario
+    Given I'm dummy
+    When I do dummy things
+    Then dummy thing happens
