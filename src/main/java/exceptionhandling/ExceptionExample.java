@@ -17,6 +17,8 @@ public class ExceptionExample {
             System.out.println(array[0]);
             aiob.printStackTrace();
         }
+        String s=null;
+        System.out.println(s.length());
 
     }
 }
